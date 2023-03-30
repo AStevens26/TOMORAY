@@ -1,0 +1,10 @@
+.info{
+    background-color: #04349c;
+    color: aliceblue;
+}
+.ayuda{
+    background-color: rgb(245, 207, 198);
+    padding:2%;
+    text-align: center;
+    align-items: center;
+}
